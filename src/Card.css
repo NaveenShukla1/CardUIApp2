@@ -1,0 +1,45 @@
+.github-card {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .user-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #434343;
+  }
+  
+  img {
+    max-width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
